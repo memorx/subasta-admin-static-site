@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{525:function(n,t,e){"use strict";e.r(t);var c={created:function(){this.$router.push("/admin")}},o=e(26),component=Object(o.a)(c,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);t.default=component.exports}}]);
